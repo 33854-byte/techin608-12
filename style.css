@@ -1,0 +1,25 @@
+ body{
+    text-align: center;
+}
+
+#board {
+    background-color: rgb(78, 155, 155);
+    border-bottom: 20px solid rgb(98, 204, 11);
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: rgba(188, 201, 9, 0.863);
+    color: rgb(192, 29, 151);
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: rgb(206, 49, 135);
+    color: rgb(154, 101, 223);
+}
